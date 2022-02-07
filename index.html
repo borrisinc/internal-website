@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <script>
+        function myFunction() {
+          var x = document.getElementById('myInput');
+          var y = document.getElementById('demo');
+          if (x.value === '45') {
+            y.style.display = 'block';
+          } else {
+            y.style.display = 'none';
+          }
+        }
+        </script>
+<body>
+    <p>
+        Click the radio button to toggle between password visibility:
+    </p>
+    Password: 
+    <input type='text' value='' id='myInput'><br><br>
+    <input type='checkbox' onclick='myFunction()'>Show results
+    
+    <p id='demo' style='display:none; color: black;'>demo</p>
+
+</body>
+
+</html>
