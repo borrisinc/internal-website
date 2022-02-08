@@ -1,5 +1,5 @@
 // IMPORTANT: This is a JS-for-fun - and a BAD example how to secure your content:
-var password = "demo"; // because ANYONE CAN SEE THIS IN VIEW SOURCE!
+var password = "hans"; // because ANYONE CAN SEE THIS IN VIEW SOURCE!
 
 
 // Repeatedly prompt for user password until success:
