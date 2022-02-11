@@ -1,0 +1,27 @@
+{
+  "name": "internal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borrisinc/internal-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borrisinc/internal-website/issues"
+  },
+  "homepage": "https://github.com/borrisinc/internal-website#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/dom": "^8.11.3",
+    "@testing-library/jest-dom": "^5.16.2",
+    "jest": "^27.5.1",
+    "jsdom": "^19.0.0"
+  }
+}
