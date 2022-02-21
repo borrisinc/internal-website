@@ -16,5 +16,5 @@ var password = "borrisinc"; // because ANYONE CAN SEE THIS IN VIEW SOURCE!
 
 
 alert('WELCOME');
-window.location = "https://borrisinc.github.io/internal-website/k.html";
+window.location = "https://borrisinc.github.io/internal-website/b.html";
 // or show you page content
